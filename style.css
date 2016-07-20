@@ -1,0 +1,64 @@
+.container{
+	//color:white;
+	//padding: 80px 120px;
+}
+
+.bootimage{
+	  border: 10px solid transparent;
+      margin-bottom: 25px;
+      //width: 80%;
+      //height: 80%;
+      opacity: 0.9;
+      border-radius: 25px;
+}
+
+.bootimage:hover{
+	border-color: #d9d9d9;
+}
+
+#head{
+	background-color: #563d7c;
+	color : white;
+	margin-top: 15px;
+}
+
+#logo1{
+	color:#563d7c;
+}
+
+#list1{
+	color:#563d7c;
+}
+
+#p1,#p2,#p3{
+	text-align: justify;
+
+}
+
+#cmnts1{
+	text-align: left;
+}
+
+#f1{
+	
+	color:#563d7c;
+	padding:10px;
+}
+#f1,#f2{
+	background-color: #563d7c;
+	color:white;
+}
+
+#sharefb,#sharetw,#shareg{
+	-webkit-filter: grayscale(1);
+	opacity:0.9;
+	text-decoration: none;
+
+	
+}
+
+#share2{
+	padding-bottom: 20px;
+}
+
+
